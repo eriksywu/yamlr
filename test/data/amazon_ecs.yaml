@@ -1,0 +1,11 @@
+company: Amazon
+description: Elastic Container Service
+license: Apache-2.0
+maintainers:
+    -
+        email: JeffBezos@Amazon.com
+        name: Jeff Bezos
+source: https://github.com/amazon/ecs
+title: ECS
+version: 0.0.1
+website: Amazon.com/ecs

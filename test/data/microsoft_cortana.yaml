@@ -1,0 +1,17 @@
+company: Microsoft
+description: Cortana Cognitive Services
+license: Apache-2.0
+maintainers:
+    -
+        email: JohnSmith@microsoft.com
+        name: John Smith
+    -
+        email: JaneSmith@microsoft.com
+        name: Jane Smith
+    -
+        email: erik.wu@microsoft.com
+        name: Erik Wu
+source: https://github.com/microsoft/cortana
+title: Cortana
+version: 0.0.1
+website: microsoft.com/cortana

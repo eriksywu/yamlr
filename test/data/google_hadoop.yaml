@@ -1,0 +1,17 @@
+company: Google
+description: Managed Apache Hadoop Service
+license: Apache-2.0
+maintainers:
+    -
+        email: JohnSmith@Google.com
+        name: John Smith
+    -
+        email: JaneSmith@Google.com
+        name: Jane Smith
+    -
+        email: erik.wu@Google.com
+        name: Erik Wu
+source: https://github.com/google/hadoop
+title: Hadoop
+version: 0.0.1
+website: Google.com/Hadoop

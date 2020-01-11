@@ -1,0 +1,14 @@
+company: Amazon
+description: Dynamo Database
+license: Apache-2.0
+maintainers:
+    -
+        email: JeffBezos@Amazon.com
+        name: Jeff Bezos
+    -
+        email: JohnSmith@Amazon.com
+        name: John Smith
+source: https://github.com/amazon/dynamo
+title: Dynamo
+version: 0.0.1
+website: Amazon.com/ecs

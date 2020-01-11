@@ -1,0 +1,11 @@
+company: "Upbound Inc."
+description: "Lorem ipsum dolor sit amet"
+license: Apache-2.0
+maintainers: 
+  - 
+    email: apptwohotmail.com
+    name: "Firstname Lastname"
+source: "https://github.com/upbound/repo"
+title: "App w/ Invalid maintainer email"
+version: "1.0.1"
+website: "https://upbound.io"
