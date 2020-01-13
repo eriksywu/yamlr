@@ -15,7 +15,8 @@
 * url: `POST /api/search`
 * body: metadata search taml (see notes below)
 * returns: list of matching metadata or error
-##SEARCH
+
+## SEARCH
 Searching on all fields except for Description and Maintainer Name are supported. For example, to search for metadata with company=Microsoft, Title=AKS, Maintainers=[erik.wu@microsoft.com]:
 ```
 company: Microsoft
