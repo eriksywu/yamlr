@@ -36,6 +36,7 @@ The `description` field was interpreted as a free-text field in this exercise so
 I decided to implement the search endpoint as `POST /api/search/{guid}` instead of `GET /api/search/{query params}` mostly because it's easier to test with.
 
 ### Bugs and TODOs
-1. The update API does not fully update maintainer data association. 
-2. HTTPS not supported
-3. Shutdown logic not implemented
+1. Data denormalization between the metadata and maintainer tables. Updates/Deletes are not 100% optimized because of this.
+2. The update API does not fully update maintainer data association. The above TODO kinda preludes this.
+3. HTTPS not supported
+4. Shutdown logic not implemented
